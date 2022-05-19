@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_cache/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_cache/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_cache/build" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_getx/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_getx/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_getx/build" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_img/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_img/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_img/build" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_net/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_net/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_net/build" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_permission/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_permission/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_permission/build" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_utils/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_utils/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_utils/build" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_img/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_img/build" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_janalytics/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_janalytics/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_janalytics/build" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_jpush/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_jpush/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_jpush/build" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_login/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_login/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_login/build" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_map/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_map/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_map/build" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_net/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_net/build" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_pay/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_pay/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_pay/build" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_photo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_photo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_photo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_scan/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_scan/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_scan/build" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_share/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_share/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_share/build" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_video/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_video/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/currency/lib_video/build" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_monitor/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_monitor/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/component/lib_monitor/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
